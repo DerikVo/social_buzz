@@ -1,7 +1,7 @@
 # Social Buzz Social Media Analysis
 This is a part of a portfolio project from [The Foarage](https://www.theforage.com/) designed by [Accenture](https://www.accenture.com/us-en). All individuals mentioned except for [Derik Vo](https://www.linkedin.com/in/derik-vo/) are fictitious.
 
-The purpose of this project is for me to review the project and determine how effective this would be in evaluating student data skills.
+The purpose of this project is for me, a teacher and mentor, to review the project and determine how effective this would be in evaluating student data skills. Although this project only uses Excel, students may have the opton to in additional to Excel use SQL, Tableau, or Python. I will primirly be using Python during my review, but students will not be required to use it. Essentially I will be evaluating how effective this would be as a capstone project for my students.
 # Background
 
 Social Buzz is a fictitious social media company that emphasizes user anonymous user interactions. The primary interaction between users is reacting to shared media. Social Buzz tracks type of media,type of category, and type of reaction. The company has over 500 million active users who post over 100 thousand pieces of content every day.
